@@ -1,7 +1,7 @@
 # The Subjivala App
 This app is like direct way to help our vendors in current time of Covid-19 what we are projecting here is 
 The Application with have two Login Setups (1) For Vendors (2) For Buyer .
-![]https://github.com/pradpant/SubjiVala/blob/main/sbwala.png
+![Image]main/sbwala.png
 
 This is application will only reqried your location access and Society Name.(Don't require the exact name of Buyer and his address)
 
