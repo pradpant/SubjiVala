@@ -11,7 +11,7 @@ In Buyers page we will have all the Vegetable and fruits listed they will select
 
 This request is then transfromed in API Call to directly all the Vendors in 20Km radius of that request location.[Max Loc -20Km [2,5,10,15,20]](Like Tinder)
 
-What will happen all the mutiple request are made this will help the vendor decide what to buy form Whole Seller so they can reduce the waste .
+What will happen all the mutiple request are made this will help the vendor decide what to buy form Whole Seller so they can reduce the waste.
 
 And those cluster most area location is project to the vendors in Map /List (In Society Name) Were they can roam and sell the their product with ease.
 
